@@ -1,0 +1,12 @@
+
+.montserrat {
+  font-family: "Montserrat", "sans-serif";
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+body {
+    text-align: center;
+    font-size: 30px;
+}
